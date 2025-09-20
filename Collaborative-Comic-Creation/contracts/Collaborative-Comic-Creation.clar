@@ -1,6 +1,7 @@
 ;; Collaborative Comic Creation Contract
 ;; Multi-creator comic series with shared ownership and revenue distribution
 
+
 ;; Define constants
 (define-constant CONTRACT_OWNER tx-sender)
 (define-constant ERR_NOT_AUTHORIZED (err u100))
